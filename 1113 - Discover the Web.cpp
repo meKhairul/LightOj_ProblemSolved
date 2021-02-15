@@ -15,7 +15,6 @@ int main()
         backwards.push("http://www.lightoj.com/");
         //forwards.push("http://www.lightoj.com/");
         string current,input;
-        L:
         while(1)
         {
             cin>>input;
